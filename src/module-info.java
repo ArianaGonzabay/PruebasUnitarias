@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module TallerPruebasUnitarias {
+	requires junit;
+}
